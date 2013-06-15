@@ -11,10 +11,10 @@ Circuit Info
 
 **Outputs:**
 
-*	Analog (0-255)
-*	LED RGB
-*	Digital (High or low)
-*	2x EL RGB
+*	3x Analog (0-255)
+	*	LED RGB
+*	6x Digital (High or low)
+	*	2x EL RGB
 *	Audio?
 
 
